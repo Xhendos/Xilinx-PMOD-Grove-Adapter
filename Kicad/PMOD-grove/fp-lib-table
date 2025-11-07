@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Grove-like-connector")(type "KiCad")(uri "/home/xhendos/Documents/GitHub/Xilinx-PMOD-Grove-Adapter/Kicad/Library/Grove-like-connector/easyeda2kicad.pretty")(options "")(descr ""))
+)
